@@ -1,0 +1,35 @@
+{
+  "VerificaTokenIngresso": [
+    {
+      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "codice": "OK",
+      "messaggio": "la richiesta di ingresso è valida"
+    },
+    {
+      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
+      "codice": "PA",
+      "messaggio": "informativa relativa alla privacy non è stata accettata"
+    }
+  ],
+  "InvioPrivacy": [
+    {
+      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "codice": "OK"
+    },
+    {
+      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
+      "codice": "OK"
+    }
+  ],
+  "InvioFoto": [
+    {
+      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "codice": "OK"
+    },
+    {
+      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
+      "codice": "OK"
+    }
+  ]
+
+}
