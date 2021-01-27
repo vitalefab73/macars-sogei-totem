@@ -1,33 +1,49 @@
 {
   "VerificaTokenIngresso": [
     {
-      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "id": "3d20c13f-104a-42cf-a9d9-5e896ef2256a",
+      "codice": "PF",
+      "messaggio": "informativa relativa alla privacy non è stata accettata e la foto di identificazione utente non è presente"
+    },
+    {
+      "id": "4d20c13f-104a-42cf-a9d9-5e896ef2256a",
+      "codice": "PA",
+      "messaggio": "informativa relativa alla privacy non è stata accettata"
+    },
+    {
+      "id": "5d20c13f-104a-42cf-a9d9-5e896ef2256a",
+      "codice": "FA",
+      "messaggio": "foto di identificazione dell’utente non è presente"
+    },
+    {
+      "id": "6d20c13f-104a-42cf-a9d9-5e896ef2256a",
       "codice": "OK",
       "messaggio": "la richiesta di ingresso è valida"
     },
     {
-      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
-      "codice": "PA",
-      "messaggio": "informativa relativa alla privacy non è stata accettata"
+      "id": "7d20c13f-104a-42cf-a9d9-5e896ef2256a",
+      "codice": "PF",
+      "messaggio": "informativa relativa alla privacy non è stata accettata e la foto di identificazione dell’utente non è presente"
     }
+    
   ],
   "InvioPrivacy": [
     {
-      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "id": "3d20c13f-104a-42cf-a9d9-5e896ef2256a",
       "codice": "OK"
     },
     {
-      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
+      "id": "7d20c13f-104a-42cf-a9d9-5e896ef2256a",
       "codice": "OK"
     }
   ],
   "InvioFoto": [
     {
-      "id": "2c19b02e-093f-31be-f8c8-4d785de1145f",
+      "id": "3d20c13f-104a-42cf-a9d9-5e896ef2256a",
       "codice": "OK"
     },
     {
-      "id": "6a19b02e-093f-31be-f8c8-4d785de1148a",
+      "id": "7d20c13f-104a-42cf-a9d9-5e896ef2256a",
       "codice": "OK"
     }
   ]
